@@ -9,3 +9,9 @@ The Models have been tested with and without **Principal Component Analysis**
 You can get the Dataset form here [UCI Machine learning repository](https://archive.ics.uci.edu/ml/datasets/Spambase)
 <br>
 <h4>Sample Images</h4>
+<h5>Scree Plot</h5>
+![image of screeplot](Screenshot (472).png)
+<br>
+<br>
+<h5>Classification report using the KNN model</h5>
+![image of classification report](Screenshot (475).png)
