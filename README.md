@@ -10,8 +10,8 @@ You can get the Dataset form here [UCI Machine learning repository](https://arch
 <br>
 <h4>Sample Images</h4>
 <h5>Scree Plot</h5>
-![image of screeplot](Screenshot (472).png)
-<br>
+![Screenshot (472)](https://github.com/AshvinVignesh/Spam-Mail-Detection/assets/100078442/c2810b93-0fda-4b50-a435-1ab9bee73071)
 <br>
 <h5>Classification report using the KNN model</h5>
-![image of classification report](Screenshot (475).png)
+![Screenshot (475)](https://github.com/AshvinVignesh/Spam-Mail-Detection/assets/100078442/0e4f1aae-c4bd-4f45-aa64-480edb1b35a7)
+
